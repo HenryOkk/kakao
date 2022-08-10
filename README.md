@@ -1,3 +1,3 @@
-# kokoa
+# kakoa
 
-HTML and CSS are so much fun
+Implemented some pages of Kakao Talk with HTML and CSS.
